@@ -14,5 +14,5 @@ const CONFIG = {
     reply: 'thì yêu mới giận ghét mới thương nên là giận thì cũng tha lỗi',
     mess: 'E biết mà 🥰. Yêu ChiChi nhiều nhiều 😘😘',
     messDesc: 'C Chi siu dth tha lỗi cho e nhaaaaaa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <333',
   
